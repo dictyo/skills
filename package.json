@@ -1,4 +1,14 @@
 {
+  "name": "plotty - skills",
+  "version": "0.9",
+  "description": "Express skills with plotly",
+  "private": true,
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dictyo/skills.git"
+  },
+
   "devDependencies": {
     "normalize.css": "8.0.0",
     "webpack": "^4.20.2",
@@ -7,11 +17,5 @@
   "scripts": {
     "build": "gulp build",
     "test": "gulp archive && mocha --require babel-core/register --reporter spec --timeout 5000"
-  },
-  "version": "0.9",
-  "description": "Express skills with plotly",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dictyo/skills.git"
   }
 }
