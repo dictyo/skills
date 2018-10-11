@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ingo Beyerlein -- just doing stuff -- I don't use twitter often
 
 # THANKS
 
-    <name>
+    to the html5 boilerplate team
 
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Normalize.css
+    ...
